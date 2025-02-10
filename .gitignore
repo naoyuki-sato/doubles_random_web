@@ -1,0 +1,14 @@
+# node_modules
+node_modules/
+
+# macOS 関連
+.DS_Store
+
+# 環境変数
+.env
+
+# IDE 関連 (例: VS Code)
+.vscode/
+
+# その他 (例: ログファイル)
+*.log
